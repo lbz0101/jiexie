@@ -958,5 +958,291 @@ var questions = [
     correct: "D",
     categories: ["制图"],
     knowledge: ["CAD操作"]
+  },
+
+
+
+
+
+
+   {
+    question: "QT500-7表示的材料是",
+    options: ["A: 球墨铸铁", "B: 灰铸铁", "C: 可锻铸铁", "D: 白口铸铁"],
+    correct: "A",
+    categories: ["材料"],
+    knowledge: ["金属材料"]
+  },
+  {
+    question: "螺纹标记G1/2中的G表示",
+    options: ["A: 普通螺纹", "B: 管螺纹", "C: 梯形螺纹", "D: 锯齿形螺纹"],
+    correct: "B",
+    categories: ["螺纹"],
+    knowledge: ["螺纹参数"]
+  },
+  {
+    question: "渐开线齿轮的齿廓形状由什么决定？",
+    options: ["A: 模数", "B: 基圆", "C: 分度圆", "D: 齿顶圆"],
+    correct: "B",
+    categories: ["齿轮"],
+    knowledge: ["齿轮参数"]
+  },
+  {
+    question: "机械制图中，尺寸线必须用",
+    options: ["A: 粗实线", "B: 细实线", "C: 虚线", "D: 点画线"],
+    correct: "B",
+    categories: ["制图"],
+    knowledge: ["尺寸标注"]
+  },
+  {
+    question: "下列材料中，属于合金工具钢的是",
+    options: ["A: 45钢", "B: T8A", "C: 9SiCr", "D: Q235"],
+    correct: "C",
+    categories: ["材料"],
+    knowledge: ["金属材料"]
+  },
+  {
+    question: "普通平键的截面形状是",
+    options: ["A: 矩形", "B: 半圆形", "C: 梯形", "D: 三角形"],
+    correct: "A",
+    categories: ["传动"],
+    knowledge: ["键连接"]
+  },
+  {
+    question: "蜗杆传动常用于实现",
+    options: ["A: 平行轴传动", "B: 相交轴传动", "C: 交错轴传动", "D: 任意轴传动"],
+    correct: "C",
+    categories: ["传动"],
+    knowledge: ["齿轮传动"]
+  },
+  {
+    question: "剖视图中，剖切面后的可见轮廓线应",
+    options: ["A: 省略不画", "B: 用虚线表示", "C: 用粗实线画出", "D: 用细点画线表示"],
+    correct: "C",
+    categories: ["制图"],
+    knowledge: ["视图表达"]
+  },
+  {
+    question: "下列传动中，传动比最准确的是",
+    options: ["A: 带传动", "B: 链传动", "C: 齿轮传动", "D: 摩擦轮传动"],
+    correct: "C",
+    categories: ["传动"],
+    knowledge: ["齿轮传动"]
+  },
+  {
+    question: "深沟球轴承的类型代号是",
+    options: ["A: 3", "B: 5", "C: 6", "D: 7"],
+    correct: "C",
+    categories: ["轴承"],
+    knowledge: ["轴承类型"]
+  },
+  {
+    question: "绘制齿轮时，齿顶圆应使用",
+    options: ["A: 粗实线", "B: 细实线", "C: 虚线", "D: 点画线"],
+    correct: "A",
+    categories: ["制图"],
+    knowledge: ["标准件画法"]
+  },
+  {
+    question: "牌号ZG270-500表示的材料为",
+    options: ["A: 铸钢", "B: 铸铁", "C: 黄铜", "D: 铝合金"],
+    correct: "A",
+    categories: ["材料"],
+    knowledge: ["金属材料"]
+  },
+  {
+    question: "梯形螺纹的牙型角为",
+    options: ["A: 30°", "B: 55°", "C: 60°", "D: 0°"],
+    correct: "A",
+    categories: ["螺纹"],
+    knowledge: ["螺纹参数"]
+  },
+  {
+    question: "标准直齿圆柱齿轮的齿顶高系数一般为",
+    options: ["A: 0.25", "B: 1", "C: 1.25", "D: 2"],
+    correct: "B",
+    categories: ["齿轮"],
+    knowledge: ["齿轮参数"]
+  },
+  {
+    question: "标注圆的直径时，尺寸数字前应加符号",
+    options: ["A: Φ", "B: R", "C: SR", "D: SΦ"],
+    correct: "A",
+    categories: ["制图"],
+    knowledge: ["尺寸标注"]
+  },
+  {
+    question: "下列钢中，属于碳素工具钢的是",
+    options: ["A: 45", "B: T10A", "C: 20Cr", "D: Q235"],
+    correct: "B",
+    categories: ["材料"],
+    knowledge: ["金属材料"]
+  },
+  {
+    question: "半圆键的主要缺点是",
+    options: ["A: 承载能力低", "B: 对中性差", "C: 加工困难", "D: 不能轴向固定"],
+    correct: "A",
+    categories: ["传动"],
+    knowledge: ["键连接"]
+  },
+  {
+    question: "绘制局部放大图时，放大部位用",
+    options: ["A: 粗实线圈出", "B: 细实线圈出", "C: 虚线标出", "D: 点画线标出"],
+    correct: "B",
+    categories: ["制图"],
+    knowledge: ["视图表达"]
+  },
+  {
+    question: "下列材料中，属于高碳钢的是",
+    options: ["A: 20", "B: 45", "C: T8", "D: Q235"],
+    correct: "C",
+    categories: ["材料"],
+    knowledge: ["金属材料"]
+  },
+  {
+    question: "渐开线齿轮的啮合线是",
+    options: ["A: 直线", "B: 曲线", "C: 圆弧", "D: 渐开线"],
+    correct: "A",
+    categories: ["齿轮"],
+    knowledge: ["齿轮传动"]
+  },
+  {
+    question: "绘制断裂边界线时，应使用",
+    options: ["A: 波浪线", "B: 双折线", "C: 细实线", "D: 点画线"],
+    correct: "A",
+    categories: ["制图"],
+    knowledge: ["视图表达"]
+  },
+  {
+    question: "牌号KTH300-06表示的材料为",
+    options: ["A: 可锻铸铁", "B: 灰铸铁", "C: 球墨铸铁", "D: 蠕墨铸铁"],
+    correct: "A",
+    categories: ["材料"],
+    knowledge: ["金属材料"]
+  },
+  {
+    question: "推力球轴承的类型代号是",
+    options: ["A: 5", "B: 6", "C: 7", "D: 8"],
+    correct: "A",
+    categories: ["轴承"],
+    knowledge: ["轴承类型"]
+  },
+  {
+    question: "标注角度尺寸时，尺寸线应画成",
+    options: ["A: 圆弧", "B: 直线", "C: 折线", "D: 任意形状"],
+    correct: "A",
+    categories: ["制图"],
+    knowledge: ["尺寸标注"]
+  },
+  {
+    question: "普通螺纹的公称直径是指",
+    options: ["A: 大径", "B: 小径", "C: 中径", "D: 平均直径"],
+    correct: "A",
+    categories: ["螺纹"],
+    knowledge: ["螺纹参数"]
+  },
+  {
+    question: "下列螺纹中，牙型角为55°的是",
+    options: ["A: 普通螺纹", "B: 管螺纹", "C: 梯形螺纹", "D: 锯齿形螺纹"],
+    correct: "B",
+    categories: ["螺纹"],
+    knowledge: ["螺纹参数"]
+  },
+  {
+    question: "螺纹标记M20×2-6g中，2表示",
+    options: ["A: 公称直径", "B: 导程", "C: 螺距", "D: 旋合长度"],
+    correct: "C",
+    categories: ["螺纹"],
+    knowledge: ["螺纹标记"]
+  },
+  {
+    question: "螺纹紧固件中，弹簧垫圈的主要作用是",
+    options: ["A: 增大接触面积", "B: 防松", "C: 密封", "D: 调整高度"],
+    correct: "B",
+    categories: ["螺纹"],
+    knowledge: ["螺纹紧固件"]
+  },
+  {
+    question: "联轴器与离合器的主要区别是",
+    options: ["A: 传递扭矩大小", "B: 能否在运转中接合", "C: 安装精度要求", "D: 使用材料"],
+    correct: "B",
+    categories: ["传动"],
+    knowledge: ["轴系零件"]
+  },
+  {
+    question: "制动器的基本功能是",
+    options: ["A: 传递动力", "B: 储存能量", "C: 减速或停止运动", "D: 改变运动方向"],
+    correct: "C",
+    categories: ["传动"],
+    knowledge: ["轴系零件"]
+  },
+ {
+    question: "普通螺纹的牙型角为多少度？",
+    options: ["A: 30°", "B: 55°", "C: 60°", "D: 90°"],
+    correct: "C",
+    categories: ["螺纹"],
+    knowledge: ["螺纹参数"]
+  },
+  {
+    question: "下列哪种螺纹适用于密封管道连接？",
+    options: ["A: 普通螺纹", "B: 梯形螺纹", "C: 管螺纹", "D: 矩形螺纹"],
+    correct: "C",
+    categories: ["螺纹"],
+    knowledge: ["螺纹应用"]
+  },
+  {
+    question: "螺纹旋向判定方法正确的是？",
+    options: ["A: 顺时针旋入为右旋", "B: 逆时针旋入为左旋", "C: 轴线竖直时右高左低为右旋", "D: 以上均正确"],
+    correct: "D",
+    categories: ["螺纹"],
+    knowledge: ["螺纹传动形式"]
+  },
+  {
+    question: "V带传动的传动比不准确主要是因为？",
+    options: ["A: 弹性滑动", "B: 打滑", "C: 带轮直径误差", "D: 安装误差"],
+    correct: "A",
+    categories: ["传动"],
+    knowledge: ["带传动"]
+  },
+  {
+    question: "摩擦轮传动的最大优点是？",
+    options: ["A: 传动比精确", "B: 过载保护", "C: 结构简单", "D: 无需润滑"],
+    correct: "B",
+    categories: ["传动"],
+    knowledge: ["摩擦轮传动"]
+  },
+  {
+    question: "标准直齿圆柱齿轮的分度圆直径计算公式为？",
+    options: ["A: d = mz", "B: d = m(z+2)", "C: d = m(z-2.5)", "D: d = πm"],
+    correct: "A",
+    categories: ["齿轮"],
+    knowledge: ["齿轮参数"]
+  },
+  {
+    question: "铰链四杆机构中，若最短杆与最长杆长度之和大于其余两杆之和，则该机构为？",
+    options: ["A: 双曲柄机构", "B: 曲柄摇杆机构", "C: 双摇杆机构", "D: 曲柄滑块机构"],
+    correct: "C",
+    categories: ["传动"],
+    knowledge: ["机构分析"]
+  },
+  {
+    question: "联轴器的主要功能是？",
+    options: ["A: 传递扭矩", "B: 过载保护", "C: 改变转速", "D: 调整相位"],
+    correct: "A",
+    categories: ["传动"],
+    knowledge: ["轴系零件"]
+  },
+  {
+    question: "制动器在机械系统中的主要作用是？",
+    options: ["A: 储存能量", "B: 传递动力", "C: 减速或停止运动", "D: 改变运动方向"],
+    correct: "C",
+    categories: ["传动"],
+    knowledge: ["轴系零件"]
+  },
+  {
+    question: "带传动发生打滑时",
+    options: ["A: 从动轮转速急剧下降", "B: 传动比保持不变", "C: 起过载保护作用", "D: 带磨损加剧"],
+    correct: "C",
+    categories: ["传动"],
+    knowledge: ["带传动"]
   }
 ];

@@ -1244,5 +1244,19 @@ var questions = [
     correct: "C",
     categories: ["传动"],
     knowledge: ["带传动"]
-  }
+  },
+      { 
+        question: "优质碳素结构钢的牌号用两位数字表示，45钢表示平均含碳量为", 
+        options: ["A: 0.045%", "B: 0.45%", "C: 4.5%", "D: 45%"], 
+        correct: "B",
+        categories: ["材料"],
+        knowledge: ["金属材料"]
+    },
+    { 
+        question: "HT200中的HT表示", 
+        options: ["A: 球墨铸铁", "B: 灰口铸铁", "C: 可锻铸铁", "D: 蠕墨铸铁"], 
+        correct: "B",
+        categories: ["材料"],
+        knowledge: ["铸造材料"]
+    }
 ];
